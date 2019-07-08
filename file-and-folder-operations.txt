@@ -1,0 +1,5 @@
+pwd
+ls
+ls -l
+uname -a
+passwd dj
